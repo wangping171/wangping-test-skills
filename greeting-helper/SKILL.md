@@ -22,3 +22,16 @@ Create a concise greeting that matches the requested audience and tone. Keep the
 - Match the requested language and formality.
 - Avoid invented names, dates, achievements, or personal details.
 - Keep a greeting under 40 words unless the user requests a longer message.
+
+## Tone Presets
+
+- Formal: Use respectful wording and avoid slang.
+- Warm: Add a sincere, personal touch while staying concise.
+- Casual: Use natural conversational wording appropriate for chat.
+- Playful: Add light humor only when the occasion and audience make it appropriate.
+
+## Example
+
+For a request to welcome a new teammate in a team chat, write:
+
+> Welcome to the team! We are excited to have you with us and look forward to working together.
