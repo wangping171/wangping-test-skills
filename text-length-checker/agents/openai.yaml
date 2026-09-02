@@ -1,0 +1,4 @@
+interface:
+  display_name: "Text Length Checker"
+  short_description: "Count text words and characters"
+  default_prompt: "Use $text-length-checker to count the words and characters in this text."
