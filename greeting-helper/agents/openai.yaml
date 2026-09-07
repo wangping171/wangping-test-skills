@@ -1,4 +1,4 @@
 interface:
   display_name: "Greeting Helper"
-  short_description: "Generate friendly, concise greetings"
-  default_prompt: "Use $greeting-helper to write a friendly greeting for a specified audience."
+  short_description: "Draft greetings by tone and channel"
+  default_prompt: "Use $greeting-helper to draft a warm welcome message for a team chat."
